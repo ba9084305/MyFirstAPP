@@ -3,3 +3,7 @@
 ################################################################################
 
 /MyFirstAPP/.vs/MyFirstAPP
+/MyFirstAPP/MyFirstAPP/obj
+/MyFirstAPP/MyFirstAPP/wwwroot
+/.vs
+/MyFirstAPP/MyFirstAPP/bin/Debug/netcoreapp3.1
